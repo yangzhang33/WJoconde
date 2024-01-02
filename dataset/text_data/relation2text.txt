@@ -1,0 +1,370 @@
+http://schema.org/about	about
+http://schema.org/description	description
+http://schema.org/inLanguage	inLanguage
+http://wikiba.se/ontology#badge	badge
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type	type
+http://www.w3.org/2000/01/rdf-schema#label	label
+http://www.w3.org/2002/07/owl#complementOf	complementOf
+http://www.w3.org/2002/07/owl#onProperty	onProperty
+http://www.w3.org/2002/07/owl#someValuesFrom	someValuesFrom
+http://www.w3.org/2004/02/skos/core#altLabel	altLabel
+http://www.wikidata.org/prop/direct/P10	video 
+http://www.wikidata.org/prop/direct/P10039	Musées Nationaux Recuperation ID 
+http://www.wikidata.org/prop/direct/P1006	Nationale Thesaurus voor Auteurs ID 
+http://www.wikidata.org/prop/direct/P10069	Tabakalera ID 
+http://www.wikidata.org/prop/direct/P10093	image with color chart 
+http://www.wikidata.org/prop/direct/P10187	Artstor artwork ID 
+http://www.wikidata.org/prop/direct/P10242	Lur Encyclopedic Dictionary ID 
+http://www.wikidata.org/prop/direct/P1028	donated by 
+http://www.wikidata.org/prop/direct/P10297	Google Arts & Culture entity ID 
+http://www.wikidata.org/prop/direct/P1038	relative 
+http://www.wikidata.org/prop/direct/P1042	ZDB ID 
+http://www.wikidata.org/prop/direct/P10565	Encyclopedia of China (Third Edition) ID 
+http://www.wikidata.org/prop/direct/P106	occupation 
+http://www.wikidata.org/prop/direct/P1066	student of 
+http://www.wikidata.org/prop/direct/P1071	location of creation 
+http://www.wikidata.org/prop/direct/P10750	Database of Art Objects at the Jeu de Paume ID 
+http://www.wikidata.org/prop/direct/P10759	Linz DB ID 
+http://www.wikidata.org/prop/direct/P10760	MCCP ID 
+http://www.wikidata.org/prop/direct/P108	employer 
+http://www.wikidata.org/prop/direct/P10864	Bibale ID 
+http://www.wikidata.org/prop/direct/P10883	The Encyclopedia of Fantasy ID 
+http://www.wikidata.org/prop/direct/P109	signature 
+http://www.wikidata.org/prop/direct/P11110	Cleveland Museum of Art ID 
+http://www.wikidata.org/prop/direct/P11239	DFK Paris person ID 
+http://www.wikidata.org/prop/direct/P11408	Pixiv Encyclopedia ID 
+http://www.wikidata.org/prop/direct/P11514	Great Russian Encyclopedia portal ID 
+http://www.wikidata.org/prop/direct/P11686	University of Barcelona authority ID 
+http://www.wikidata.org/prop/direct/P11754	Musées Grand Est ID 
+http://www.wikidata.org/prop/direct/P11756	Musée Fabre ID 
+http://www.wikidata.org/prop/direct/P119	place of burial 
+http://www.wikidata.org/prop/direct/P1196	manner of death 
+http://www.wikidata.org/prop/direct/P1207	NUKAT ID 
+http://www.wikidata.org/prop/direct/P1212	Atlas ID 
+http://www.wikidata.org/prop/direct/P123	publisher 
+http://www.wikidata.org/prop/direct/P1257	depicts Iconclass notation 
+http://www.wikidata.org/prop/direct/P1259	coordinates of the point of view 
+http://www.wikidata.org/prop/direct/P127	owned by 
+http://www.wikidata.org/prop/direct/P1273	CANTIC ID (former scheme) 
+http://www.wikidata.org/prop/direct/P1296	Gran Enciclopèdia Catalana ID 
+http://www.wikidata.org/prop/direct/P1299	depicted by 
+http://www.wikidata.org/prop/direct/P1303	instrument 
+http://www.wikidata.org/prop/direct/P131	located in the administrative territorial entity 
+http://www.wikidata.org/prop/direct/P1315	NLA Trove people ID 
+http://www.wikidata.org/prop/direct/P1343	described by source 
+http://www.wikidata.org/prop/direct/P135	movement 
+http://www.wikidata.org/prop/direct/P136	genre 
+http://www.wikidata.org/prop/direct/P1375	NSK ID 
+http://www.wikidata.org/prop/direct/P138	named after 
+http://www.wikidata.org/prop/direct/P140	religion or worldview 
+http://www.wikidata.org/prop/direct/P1412	languages spoken, written or signed 
+http://www.wikidata.org/prop/direct/P1416	affiliation 
+http://www.wikidata.org/prop/direct/P1417	Encyclopædia Britannica Online ID 
+http://www.wikidata.org/prop/direct/P1419	shape 
+http://www.wikidata.org/prop/direct/P1433	published in 
+http://www.wikidata.org/prop/direct/P1435	heritage designation 
+http://www.wikidata.org/prop/direct/P144	based on 
+http://www.wikidata.org/prop/direct/P1441	present in work 
+http://www.wikidata.org/prop/direct/P1442	image of grave 
+http://www.wikidata.org/prop/direct/P1448	official name 
+http://www.wikidata.org/prop/direct/P1472	Commons Creator page 
+http://www.wikidata.org/prop/direct/P1476	title 
+http://www.wikidata.org/prop/direct/P1477	birth name 
+http://www.wikidata.org/prop/direct/P149	architectural style 
+http://www.wikidata.org/prop/direct/P155	follows 
+http://www.wikidata.org/prop/direct/P1559	name in native language 
+http://www.wikidata.org/prop/direct/P156	followed by 
+http://www.wikidata.org/prop/direct/P1580	University of Barcelona authority ID (former scheme) 
+http://www.wikidata.org/prop/direct/P1615	CLARA-ID 
+http://www.wikidata.org/prop/direct/P1639	pendant of 
+http://www.wikidata.org/prop/direct/P1651	YouTube video ID 
+http://www.wikidata.org/prop/direct/P166	award received 
+http://www.wikidata.org/prop/direct/P1669	Cultural Objects Names Authority ID 
+http://www.wikidata.org/prop/direct/P1680	subtitle 
+http://www.wikidata.org/prop/direct/P1684	inscription 
+http://www.wikidata.org/prop/direct/P1695	NLP ID (old) 
+http://www.wikidata.org/prop/direct/P17	country 
+http://www.wikidata.org/prop/direct/P170	creator 
+http://www.wikidata.org/prop/direct/P1705	native label 
+http://www.wikidata.org/prop/direct/P176	manufacturer 
+http://www.wikidata.org/prop/direct/P179	part of the series 
+http://www.wikidata.org/prop/direct/P18	image 
+http://www.wikidata.org/prop/direct/P180	depicts 
+http://www.wikidata.org/prop/direct/P1818	Kaiserhof ID 
+http://www.wikidata.org/prop/direct/P1819	genealogics.org person ID 
+http://www.wikidata.org/prop/direct/P1823	BAnQ work ID 
+http://www.wikidata.org/prop/direct/P1830	owner of 
+http://www.wikidata.org/prop/direct/P186	made from material 
+http://www.wikidata.org/prop/direct/P1871	CERL Thesaurus ID 
+http://www.wikidata.org/prop/direct/P1877	after a work by 
+http://www.wikidata.org/prop/direct/P1889	different from 
+http://www.wikidata.org/prop/direct/P189	location of discovery 
+http://www.wikidata.org/prop/direct/P19	place of birth 
+http://www.wikidata.org/prop/direct/P195	collection 
+http://www.wikidata.org/prop/direct/P1950	second family name in Spanish name 
+http://www.wikidata.org/prop/direct/P1958	Trismegistos Geo ID 
+http://www.wikidata.org/prop/direct/P1986	Treccani's Biographical Dictionary of Italian People ID 
+http://www.wikidata.org/prop/direct/P1988	Le Delarge artist ID 
+http://www.wikidata.org/prop/direct/P20	place of death 
+http://www.wikidata.org/prop/direct/P2014	Museum of Modern Art work ID 
+http://www.wikidata.org/prop/direct/P2031	work period (start) 
+http://www.wikidata.org/prop/direct/P2032	work period (end) 
+http://www.wikidata.org/prop/direct/P2043	length 
+http://www.wikidata.org/prop/direct/P2048	height 
+http://www.wikidata.org/prop/direct/P2049	width 
+http://www.wikidata.org/prop/direct/P2067	mass 
+http://www.wikidata.org/prop/direct/P2079	fabrication method 
+http://www.wikidata.org/prop/direct/P2092	Bildindex der Kunst und Architektur ID 
+http://www.wikidata.org/prop/direct/P21	sex or gender 
+http://www.wikidata.org/prop/direct/P213	ISNI 
+http://www.wikidata.org/prop/direct/P214	VIAF ID 
+http://www.wikidata.org/prop/direct/P2163	FAST ID 
+http://www.wikidata.org/prop/direct/P217	inventory number 
+http://www.wikidata.org/prop/direct/P22	father 
+http://www.wikidata.org/prop/direct/P227	GND ID 
+http://www.wikidata.org/prop/direct/P2344	AGORHA work ID 
+http://www.wikidata.org/prop/direct/P2348	time period 
+http://www.wikidata.org/prop/direct/P2354	has list 
+http://www.wikidata.org/prop/direct/P2386	diameter 
+http://www.wikidata.org/prop/direct/P2408	set in period 
+http://www.wikidata.org/prop/direct/P244	Library of Congress authority ID 
+http://www.wikidata.org/prop/direct/P245	Union List of Artist Names ID 
+http://www.wikidata.org/prop/direct/P25	mother 
+http://www.wikidata.org/prop/direct/P2539	Nationalmuseum Sweden artwork ID 
+http://www.wikidata.org/prop/direct/P2561	name 
+http://www.wikidata.org/prop/direct/P2581	BabelNet ID 
+http://www.wikidata.org/prop/direct/P2596	culture 
+http://www.wikidata.org/prop/direct/P26	spouse 
+http://www.wikidata.org/prop/direct/P2610	thickness 
+http://www.wikidata.org/prop/direct/P2634	model 
+http://www.wikidata.org/prop/direct/P2671	Google Knowledge Graph ID 
+http://www.wikidata.org/prop/direct/P268	Bibliothèque nationale de France ID 
+http://www.wikidata.org/prop/direct/P2681	is recto of 
+http://www.wikidata.org/prop/direct/P2682	is verso of 
+http://www.wikidata.org/prop/direct/P269	IdRef ID 
+http://www.wikidata.org/prop/direct/P27	country of citizenship 
+http://www.wikidata.org/prop/direct/P276	location 
+http://www.wikidata.org/prop/direct/P279	subclass of 
+http://www.wikidata.org/prop/direct/P2843	Benezit ID 
+http://www.wikidata.org/prop/direct/P2913	date depicted 
+http://www.wikidata.org/prop/direct/P2924	Great Russian Encyclopedia Online ID (old version) 
+http://www.wikidata.org/prop/direct/P2936	language used 
+http://www.wikidata.org/prop/direct/P3065	RERO ID (obsolete) 
+http://www.wikidata.org/prop/direct/P31	instance of 
+http://www.wikidata.org/prop/direct/P3219	Encyclopædia Universalis ID 
+http://www.wikidata.org/prop/direct/P3222	NE.se ID 
+http://www.wikidata.org/prop/direct/P3272	Zeri image ID 
+http://www.wikidata.org/prop/direct/P3280	BAnQ author ID 
+http://www.wikidata.org/prop/direct/P3293	BALaT object ID 
+http://www.wikidata.org/prop/direct/P3324	petit-patrimoine.com ID 
+http://www.wikidata.org/prop/direct/P3365	Treccani ID 
+http://www.wikidata.org/prop/direct/P3368	Prabook ID 
+http://www.wikidata.org/prop/direct/P3373	sibling 
+http://www.wikidata.org/prop/direct/P3417	Quora topic ID 
+http://www.wikidata.org/prop/direct/P347	Joconde work ID 
+http://www.wikidata.org/prop/direct/P3480	base Mémoire reference 
+http://www.wikidata.org/prop/direct/P349	NDL Authority ID 
+http://www.wikidata.org/prop/direct/P350	RKDimages ID 
+http://www.wikidata.org/prop/direct/P3553	Zhihu topic ID 
+http://www.wikidata.org/prop/direct/P361	part of 
+http://www.wikidata.org/prop/direct/P3634	The Met object ID 
+http://www.wikidata.org/prop/direct/P366	has use 
+http://www.wikidata.org/prop/direct/P373	Commons category 
+http://www.wikidata.org/prop/direct/P3782	Artnet artist ID 
+http://www.wikidata.org/prop/direct/P3783	Christie's object ID 
+http://www.wikidata.org/prop/direct/P380	Mérimée ID 
+http://www.wikidata.org/prop/direct/P39	position held 
+http://www.wikidata.org/prop/direct/P3929	V&A item ID 
+http://www.wikidata.org/prop/direct/P396	SBN author ID 
+http://www.wikidata.org/prop/direct/P3965	Bridgeman artist ID 
+http://www.wikidata.org/prop/direct/P40	child 
+http://www.wikidata.org/prop/direct/P407	language of work or name 
+http://www.wikidata.org/prop/direct/P409	Libraries Australia ID 
+http://www.wikidata.org/prop/direct/P410	military rank 
+http://www.wikidata.org/prop/direct/P412	voice type 
+http://www.wikidata.org/prop/direct/P4144	Athenaeum artwork ID 
+http://www.wikidata.org/prop/direct/P4145	Athenaeum person ID 
+http://www.wikidata.org/prop/direct/P4178	Beazley Archive Pottery Database ID 
+http://www.wikidata.org/prop/direct/P4223	Treccani's Enciclopedia Italiana ID 
+http://www.wikidata.org/prop/direct/P4313	Museum of Brittany collections ID 
+http://www.wikidata.org/prop/direct/P4342	Store norske leksikon ID 
+http://www.wikidata.org/prop/direct/P435	MusicBrainz work ID 
+http://www.wikidata.org/prop/direct/P4399	Itaú Cultural ID 
+http://www.wikidata.org/prop/direct/P443	pronunciation audio 
+http://www.wikidata.org/prop/direct/P4432	AKL Online artist ID 
+http://www.wikidata.org/prop/direct/P4439	MNCARS artist ID 
+http://www.wikidata.org/prop/direct/P4459	Spanish Biographical Dictionary ID 
+http://www.wikidata.org/prop/direct/P4511	vertical depth 
+http://www.wikidata.org/prop/direct/P4553	RA Collections ID 
+http://www.wikidata.org/prop/direct/P4582	Kulturelles Erbe Köln object ID 
+http://www.wikidata.org/prop/direct/P460	said to be the same as 
+http://www.wikidata.org/prop/direct/P4619	National Library of Brazil ID 
+http://www.wikidata.org/prop/direct/P462	color 
+http://www.wikidata.org/prop/direct/P4659	Musée d'Orsay artwork ID 
+http://www.wikidata.org/prop/direct/P466	occupant 
+http://www.wikidata.org/prop/direct/P4663	DACS ID (former) 
+http://www.wikidata.org/prop/direct/P4674	Indianapolis Museum of Art artwork ID 
+http://www.wikidata.org/prop/direct/P4683	National Gallery of Art artwork ID 
+http://www.wikidata.org/prop/direct/P4701	Google Arts & Culture asset ID 
+http://www.wikidata.org/prop/direct/P4739	Musée des Augustins artwork ID (former scheme) 
+http://www.wikidata.org/prop/direct/P4761	Images d'Art artwork ID 
+http://www.wikidata.org/prop/direct/P4764	Base Arcade artwork ID 
+http://www.wikidata.org/prop/direct/P4765	Commons compatible image available at URL 
+http://www.wikidata.org/prop/direct/P4808	Royal Academy new identifier 
+http://www.wikidata.org/prop/direct/P481	Palissy ID 
+http://www.wikidata.org/prop/direct/P4839	Wolfram Language entity code 
+http://www.wikidata.org/prop/direct/P4896	3D model 
+http://www.wikidata.org/prop/direct/P4927	Invaluable.com person ID 
+http://www.wikidata.org/prop/direct/P4945	download link 
+http://www.wikidata.org/prop/direct/P4948	DDB ID 
+http://www.wikidata.org/prop/direct/P495	country of origin 
+http://www.wikidata.org/prop/direct/P4969	derivative work 
+http://www.wikidata.org/prop/direct/P50	author 
+http://www.wikidata.org/prop/direct/P5008	on focus list of Wikimedia project 
+http://www.wikidata.org/prop/direct/P5019	Brockhaus Enzyklopädie online ID 
+http://www.wikidata.org/prop/direct/P509	cause of death 
+http://www.wikidata.org/prop/direct/P527	has part(s) 
+http://www.wikidata.org/prop/direct/P528	catalog code 
+http://www.wikidata.org/prop/direct/P535	Find a Grave memorial ID 
+http://www.wikidata.org/prop/direct/P5466	French Academy in Rome resident ID 
+http://www.wikidata.org/prop/direct/P547	commemorates 
+http://www.wikidata.org/prop/direct/P5489	artist-info artist ID 
+http://www.wikidata.org/prop/direct/P5504	RISM ID 
+http://www.wikidata.org/prop/direct/P5524	horizontal depth 
+http://www.wikidata.org/prop/direct/P5597	Artcyclopedia artist ID 
+http://www.wikidata.org/prop/direct/P5617	Evene ID 
+http://www.wikidata.org/prop/direct/P562	central bank/issuer 
+http://www.wikidata.org/prop/direct/P5632	Persons of Indian Studies ID 
+http://www.wikidata.org/prop/direct/P569	date of birth 
+http://www.wikidata.org/prop/direct/P570	date of death 
+http://www.wikidata.org/prop/direct/P571	inception 
+http://www.wikidata.org/prop/direct/P575	time of discovery or invention 
+http://www.wikidata.org/prop/direct/P577	publication date 
+http://www.wikidata.org/prop/direct/P5783	Cranach Digital Archive artwork ID 
+http://www.wikidata.org/prop/direct/P580	start time 
+http://www.wikidata.org/prop/direct/P5816	state of conservation 
+http://www.wikidata.org/prop/direct/P582	end time 
+http://www.wikidata.org/prop/direct/P585	point in time 
+http://www.wikidata.org/prop/direct/P5891	Bpk-ID 
+http://www.wikidata.org/prop/direct/P5905	Comic Vine ID 
+http://www.wikidata.org/prop/direct/P6002	WikiArt ID 
+http://www.wikidata.org/prop/direct/P6007	Salons ID 
+http://www.wikidata.org/prop/direct/P6020	d'Art d'Art ! ID 
+http://www.wikidata.org/prop/direct/P6058	Larousse ID 
+http://www.wikidata.org/prop/direct/P607	conflict 
+http://www.wikidata.org/prop/direct/P608	exhibition history 
+http://www.wikidata.org/prop/direct/P61	discoverer or inventor 
+http://www.wikidata.org/prop/direct/P6108	IIIF manifest URL 
+http://www.wikidata.org/prop/direct/P6141	À nos grands hommes ID 
+http://www.wikidata.org/prop/direct/P6216	copyright status 
+http://www.wikidata.org/prop/direct/P6238	Monument aux morts ID 
+http://www.wikidata.org/prop/direct/P6246	Paris Musées work ID 
+http://www.wikidata.org/prop/direct/P625	coordinate location 
+http://www.wikidata.org/prop/direct/P6262	Fandom article ID 
+http://www.wikidata.org/prop/direct/P6275	copyright representative 
+http://www.wikidata.org/prop/direct/P6301	The Armory Show at 100 ID 
+http://www.wikidata.org/prop/direct/P6310	Muséosphère work ID 
+http://www.wikidata.org/prop/direct/P6323	Centre Pompidou ID 
+http://www.wikidata.org/prop/direct/P6332	Panorama de l'art ID 
+http://www.wikidata.org/prop/direct/P6334	Agence photo RMN package ID 
+http://www.wikidata.org/prop/direct/P6355	MNAM artwork ID 
+http://www.wikidata.org/prop/direct/P6356	IHOI work ID 
+http://www.wikidata.org/prop/direct/P6358	Musée Picasso artwork ID 
+http://www.wikidata.org/prop/direct/P6379	has works in the collection 
+http://www.wikidata.org/prop/direct/P6404	Treccani's Dizionario di Storia ID 
+http://www.wikidata.org/prop/direct/P6405	Smarthistory ID 
+http://www.wikidata.org/prop/direct/P646	Freebase ID 
+http://www.wikidata.org/prop/direct/P648	Open Library ID 
+http://www.wikidata.org/prop/direct/P650	RKDartists ID 
+http://www.wikidata.org/prop/direct/P6500	non-free artwork image URL 
+http://www.wikidata.org/prop/direct/P6565	Musenor artwork ID 
+http://www.wikidata.org/prop/direct/P6573	Klexikon article ID 
+http://www.wikidata.org/prop/direct/P6606	study or design for 
+http://www.wikidata.org/prop/direct/P6610	Ashmolean museum ID 
+http://www.wikidata.org/prop/direct/P6633	Cini Foundation ID 
+http://www.wikidata.org/prop/direct/P6637	AWARE ID 
+http://www.wikidata.org/prop/direct/P6663	Utpictura18 artwork ID 
+http://www.wikidata.org/prop/direct/P669	located on street 
+http://www.wikidata.org/prop/direct/P6760	Know Your Meme ID 
+http://www.wikidata.org/prop/direct/P6839	TV Tropes ID 
+http://www.wikidata.org/prop/direct/P6844	abART person ID 
+http://www.wikidata.org/prop/direct/P69	educated at 
+http://www.wikidata.org/prop/direct/P6900	NicoNicoPedia ID 
+http://www.wikidata.org/prop/direct/P691	NL CR AUT ID 
+http://www.wikidata.org/prop/direct/P7021	Arachne object ID 
+http://www.wikidata.org/prop/direct/P7108	location of the point of view 
+http://www.wikidata.org/prop/direct/P7229	Fundación Goya en Aragón ID 
+http://www.wikidata.org/prop/direct/P7305	Online PWN Encyclopedia ID 
+http://www.wikidata.org/prop/direct/P734	family name 
+http://www.wikidata.org/prop/direct/P735	given name 
+http://www.wikidata.org/prop/direct/P737	influenced by 
+http://www.wikidata.org/prop/direct/P740	location of formation 
+http://www.wikidata.org/prop/direct/P7417	image of backside 
+http://www.wikidata.org/prop/direct/P742	pseudonym 
+http://www.wikidata.org/prop/direct/P7420	image with frame 
+http://www.wikidata.org/prop/direct/P7444	Rijksmuseum Research Library authority ID 
+http://www.wikidata.org/prop/direct/P7457	creator's signature 
+http://www.wikidata.org/prop/direct/P7502	Golden ID 
+http://www.wikidata.org/prop/direct/P7578	DUC ID 
+http://www.wikidata.org/prop/direct/P770	cause of destruction 
+http://www.wikidata.org/prop/direct/P7704	Europeana entity 
+http://www.wikidata.org/prop/direct/P7763	copyright status as a creator 
+http://www.wikidata.org/prop/direct/P7772	Atlas Obscura ID 
+http://www.wikidata.org/prop/direct/P7818	French Vikidia ID 
+http://www.wikidata.org/prop/direct/P7822	Italian Vikidia ID 
+http://www.wikidata.org/prop/direct/P7827	Spanish Vikidia ID 
+http://www.wikidata.org/prop/direct/P7832	Basque Vikidia ID 
+http://www.wikidata.org/prop/direct/P7843	German Vikidia ID 
+http://www.wikidata.org/prop/direct/P7848	Frick Art Reference Library Artist File ID 
+http://www.wikidata.org/prop/direct/P7859	WorldCat Identities ID (superseded) 
+http://www.wikidata.org/prop/direct/P7865	CoBiS author ID 
+http://www.wikidata.org/prop/direct/P7902	Deutsche Biographie (GND) ID 
+http://www.wikidata.org/prop/direct/P793	significant event 
+http://www.wikidata.org/prop/direct/P7982	Hrvatska enciklopedija ID 
+http://www.wikidata.org/prop/direct/P7984	depicted format 
+http://www.wikidata.org/prop/direct/P8034	Vatican Library VcBA ID 
+http://www.wikidata.org/prop/direct/P805	statement is subject of 
+http://www.wikidata.org/prop/direct/P8091	Archival Resource Key 
+http://www.wikidata.org/prop/direct/P8179	Canadiana Name Authority ID 
+http://www.wikidata.org/prop/direct/P8189	National Library of Israel J9U ID 
+http://www.wikidata.org/prop/direct/P825	dedicated to 
+http://www.wikidata.org/prop/direct/P827	BBC programme ID 
+http://www.wikidata.org/prop/direct/P8313	Den Store Danske ID 
+http://www.wikidata.org/prop/direct/P8349	Proleksis enciklopedija ID 
+http://www.wikidata.org/prop/direct/P84	architect 
+http://www.wikidata.org/prop/direct/P840	narrative location 
+http://www.wikidata.org/prop/direct/P8406	Grove Art Online ID 
+http://www.wikidata.org/prop/direct/P854	reference URL 
+http://www.wikidata.org/prop/direct/P856	official website 
+http://www.wikidata.org/prop/direct/P8565	British Museum object ID 
+http://www.wikidata.org/prop/direct/P8572	Spanish Artists from the Fourth to the Twentieth Century ID 
+http://www.wikidata.org/prop/direct/P8574	NYARC Discovery ID 
+http://www.wikidata.org/prop/direct/P859	sponsor 
+http://www.wikidata.org/prop/direct/P8750	Unione Romana Biblioteche Scientifiche ID 
+http://www.wikidata.org/prop/direct/P8751	die axis 
+http://www.wikidata.org/prop/direct/P88	commissioned by 
+http://www.wikidata.org/prop/direct/P8814	WordNet 3.1 Synset ID 
+http://www.wikidata.org/prop/direct/P8947	Museo Galileo authority ID 
+http://www.wikidata.org/prop/direct/P8962	PBA artwork ID 
+http://www.wikidata.org/prop/direct/P8975	Manus Online author ID 
+http://www.wikidata.org/prop/direct/P902	HDS ID 
+http://www.wikidata.org/prop/direct/P9092	Art in the Christian Tradition ID 
+http://www.wikidata.org/prop/direct/P910	topic's main category 
+http://www.wikidata.org/prop/direct/P921	main subject 
+http://www.wikidata.org/prop/direct/P9251	Cyprus University of Technology ID 
+http://www.wikidata.org/prop/direct/P935	Commons gallery 
+http://www.wikidata.org/prop/direct/P9365	Modernist Commons ID 
+http://www.wikidata.org/prop/direct/P9394	Louvre Museum ARK ID 
+http://www.wikidata.org/prop/direct/P94	coat of arms image 
+http://www.wikidata.org/prop/direct/P9403	Musée national de la Marine ID 
+http://www.wikidata.org/prop/direct/P941	inspired by 
+http://www.wikidata.org/prop/direct/P9493	artist files at 
+http://www.wikidata.org/prop/direct/P950	Biblioteca Nacional de España ID 
+http://www.wikidata.org/prop/direct/P9507	NBM authority ID 
+http://www.wikidata.org/prop/direct/P965	burial plot reference 
+http://www.wikidata.org/prop/direct/P97	noble title 
+http://www.wikidata.org/prop/direct/P972	catalog 
+http://www.wikidata.org/prop/direct/P973	described at URL 
+http://www.wikidata.org/prop/direct/P9787	Smartify artwork ID 
+http://www.wikidata.org/prop/direct/P989	spoken text audio 
+http://www.wikidata.org/prop/direct/P9984	CANTIC ID 
